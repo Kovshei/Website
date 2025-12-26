@@ -48,4 +48,10 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# temp quarto files
 .quarto/
+
+# site contents, instead of committing to repo will use github actions to create webpage
+_site/
+
+.quarto/project-cache/deno-kv-file
