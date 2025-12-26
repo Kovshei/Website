@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Website"
+  title: "Jacob Armitage"
   navbar:
     left:
       - href: index.qmd
