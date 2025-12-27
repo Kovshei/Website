@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Jacob Armitage is....
+Hi! 👋
+
+I am a currently an Assessment and Evalulation Epidemiologist at Thurston County Public Health and reside in Seattle, WA. I have a MS in Genetic Genetic Epidemiology from the University of Washington - Institute for Public Health Genetics and a BS in Biotechnology and Plant Science From Rutgers University.
+
+I am interested in Population Health Science and in understanding the social, demographic, and structural forces that shape the distribution of health outcomes and mortality across populations.

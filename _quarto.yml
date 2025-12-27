@@ -4,11 +4,18 @@ project:
 website:
   title: "Jacob Armitage"
   navbar:
+    search: false
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - href: about.qmd
+      - index.qmd
+    right:
+      - icon: github
+        href: https://github.com/Kovshei
+  page-footer:
+    left: "© 2026 Jacob Armitage"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jacob-armitage-5b2029158  
 format:
   html:
     theme:
